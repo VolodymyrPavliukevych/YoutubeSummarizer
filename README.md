@@ -1,7 +1,7 @@
 # Simple Youtube summarizer
 ### Environment
 ```
-pip3 install wave numpy tensorflow youtube_dl ffmpeg deepspeech nltk networkx
+pip3 install wave numpy tensorflow youtube_dl ffmpeg-python deepspeech nltk networkx 
 brew install ffmpeg wget
 ```
 
