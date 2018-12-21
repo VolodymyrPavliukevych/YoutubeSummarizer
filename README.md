@@ -1,5 +1,5 @@
 # Simple Youtube summarizer
-![CopyFinder UI](https://raw.githubusercontent.com/VolodymyrPavliukevych/YoutubeSummarizer/master/mozilla-deepspeech@2x.png)
+![CopyFinder UI](https://raw.githubusercontent.com/VolodymyrPavliukevych/YoutubeSummarizer/master/mozilla-deepspeech%402x.png)
 
 ## What youtube talking about
 A few years ago, ML algorithms looked strange and difficult for an average software engineer. ML is growing really fast. Nowadays it is easy to improve production solution by some Artificial Intelligence. You don’t need to have twenty people in your Data Scientist department if you want to extend you service with smart analytics or Artificial Intelligence.
