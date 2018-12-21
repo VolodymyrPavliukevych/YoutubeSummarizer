@@ -1,4 +1,22 @@
 # Simple Youtube summarizer
+![CopyFinder UI](https://raw.githubusercontent.com/VolodymyrPavliukevych/YoutubeSummarizer/master/mozilla-deepspeech@2x.png)
+
+## What youtube talking about
+A few years ago, ML algorithms looked strange and difficult for an average software engineer. ML is growing really fast. Nowadays it is easy to improve production solution by some Artificial Intelligence. You don’t need to have twenty people in your Data Scientist department if you want to extend you service with smart analytics or Artificial Intelligence.
+I will show you how to apply smart search in your service.
+Currently, our service is a place, where each user can share their articles, documents, videos, calendar events, tasks and etc. So we have a huge database with users’ content. Now it is a problem for a user to search a certain document or event. All items have tags and full text search. But what about video and audio files?
+
+Usual creating usecase is:
+1) A user adds youtube link or uploads a file.
+2) A user names the new item: ‘New movie 01’.
+
+And that is all. No one wants to spend time improving their own content.
+In real world we can help our customers. At first we can try to ask Youtube about details of a particular video for future search improvement. But unfortunately, as usual it is the same lazy user or it could be a video file from PC.
+So let’s make the AI search for tags and full text in users’ content!
+What do we need? As I told earlier nowadays it is much easier.
+[Read more](https://www.octadero.com/2018/12/21/what-youtube-talking-about/)
+
+
 ### Environment
 ```
 pip3 install wave numpy tensorflow youtube_dl ffmpeg-python deepspeech nltk networkx 
